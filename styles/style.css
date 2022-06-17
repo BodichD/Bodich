@@ -1,0 +1,35 @@
+html {
+    font-size: 20px;
+    font-family: 'Comfortaa', cursive;
+}   
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+html {
+    background-color: #FBEBD9;
+}
+p, li {
+    font-size: 20px;
+    line-height: 2;  
+    letter-spacing: 1px;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #fdaf42;
+    padding: 0 50px 20px 50px;
+    border: 5px solid black;
+}
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #FBEBD9;
+    text-shadow: 3px 3px 1px  black;
+    color: rgb(143, 13, 13);
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
